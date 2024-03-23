@@ -1,2 +1,2 @@
-# Creating-Website-With-ChatGPTandDall-Ee
+# Creating-Website-With-ChatGPTandDall-E
 The "Artificial Intelligence-Powered Portfolio Website" project invites participants to use AI tools to create and showcase visual and written content on a web platform. Participants will use tools like Canva, DALL-E, Artbreeder, and others to generate images and text, with prompts included in the project folder. They'll structure the website using semantic HTML elements like header and footer, and they can also make it responsive for different screen sizes. This project offers an exciting opportunity to blend technology and creativity, exploring AI's potential in web design and content creation.
