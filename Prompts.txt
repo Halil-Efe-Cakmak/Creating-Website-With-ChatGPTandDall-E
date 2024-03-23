@@ -1,0 +1,76 @@
+1.Prompt
+
+Act as a frontend web developer.
+For the project, you’ll code a new website using these tools: HTML, Bootstrap framework using the CDN for CSS and JavaScript.
+The website should be mobile-friendly and responsive. 
+It should also include the most recent version of Twitter Bootstrap CSS classes in the site structure for layout and style. 
+The importance of providing HTML, CSS, and JavaScript codes as separate outputs should be emphasized. 
+You should also include a navigation menu with internal links to the headings within the page content. 
+Do not provide explanations for any of the code you write. 
+Do you understand everything? if you understand all the requirements, say "yes".
+
+2.Prompt
+
+The website will be an informative and donation website. 
+This website will include pictures of endangered animals and a section for each animal with information about them. 
+The desired tags to be included in the website are (header, main, nav, section, article, aside, footer).
+I want a logo in the header section of my page, and likewise, I want one logo to be in the footer section as well. 
+At the bottom of the page, there will be a 'contact us' section. 
+A donation section must be present on the page.
+The images in the content of the page should be arranged vertically and should be of size 300x300. 
+When hovered over, the frames of the images should shine.
+
+3.Prompt
+
+Make the navigation section right-aligned.
+Center the logo in the header section, make it large, and have a green background.
+Write all text in Sans-serif font.
+Include phone numbers and email addresses in the 'contact us' section.
+The general background color of the site should be Dodger Blue.
+Have a slogan in the top left corner of the site saying 'For All Living Beings'.
+
+4.Prompt
+
+Center the 'contact us' section and set its background color to black, with white text.
+The background color of the main section should be blue.
+This website will include pictures and information about four animals. I'm giving you these four animals: Cheetah, Polar Bear, Loggerhead Sea Turtle, Magellanic Penguin. Now, above each of the four images, include the name of the corresponding animal, and next to the images, there should be a brief section written by you consisting of concise information about each animal.
+Check all the codes and write them all.
+
+5.Prompt
+
+Center the text 'About Endangered Animals'.
+Set the background color of the main section to white.
+Create a donation area at the bottom of the main section and place a donation button.
+Write the information about the animals next to their respective images.
+Use the same logo in the footer as in the header, and align it to the left.
+Increase the font size of the text in the main section. Check all codes and write them all.
+
+6.Prompt
+
+Enlarge the header section.
+Place the 'Endangered Animals' logo on the left side of the header as well.
+Change 'About Endangered Animals' to 'Endangered Animals'.
+Set the text color in the nav section to green.
+Check all codes and write them all.
+
+Prompts of animals
+
+cheetah: Cheetah in savannah grassland, realistic.
+ 
+penguin: Magellanic penguin in chile, realistic.
+
+bear : Polar bear in antarctica, realistic.
+
+turtle: Loggerhead sea turtle in caribbean, realistic.
+
+
+
+
+
+
+
+
+
+
+
+
