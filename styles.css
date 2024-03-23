@@ -1,0 +1,64 @@
+/* Custom CSS for the website */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background-color: green;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.logo {
+  float: left;
+}
+
+.title {
+  display: inline-block;
+  margin: 0;
+}
+
+.slogan {
+  margin-top: 0;
+}
+
+nav {
+  text-align: right;
+}
+
+.main-section {
+  background-color: white;
+}
+
+.contact-info {
+  margin-top: 20px;
+}
+
+.contact-info p {
+  margin-bottom: 5px;
+}
+
+.animal-info {
+  text-align: center;
+}
+
+.animal-info img {
+  display: block;
+  margin: 0 auto;
+}
+
+.animal-info p {
+  margin-top: 10px;
+}
+
+.btn-primary {
+  background-color: green;
+  border-color: green;
+  margin-top: 20px;
+}
+
+.btn-primary:hover {
+  background-color: darkgreen;
+  border-color: darkgreen;
+}
