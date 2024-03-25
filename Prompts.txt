@@ -63,14 +63,7 @@ bear : Polar bear in antarctica, realistic.
 
 turtle: Loggerhead sea turtle in caribbean, realistic.
 
+Prompt of logo
 
-
-
-
-
-
-
-
-
-
+logo: there are hands over the world.
 
